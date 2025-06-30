@@ -1,4 +1,3 @@
-
 import { client } from '../sanity/sanity';
 import ProductCard from '../components/ProductCard';
 
