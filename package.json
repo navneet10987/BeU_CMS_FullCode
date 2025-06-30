@@ -1,0 +1,15 @@
+
+{
+  "name": "beu-cms",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@sanity/client": "^3.0.0",
+    "next": "12.2.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
+  }
+}
